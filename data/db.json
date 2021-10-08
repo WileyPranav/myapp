@@ -1,0 +1,28 @@
+{
+  "subjects": [
+    {
+      "id": 1,
+      "title": "Java",
+      "details": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+      "prof": "Pranav Shastri"
+    },
+    {
+      "id": 2,
+      "title": "C#",
+      "details": "C# is a general-purpose, multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.",
+      "prof": "Rahul Jinturkar"
+    },
+    {
+      "id": 3,
+      "title": "SQL",
+      "details": "SQL (Structured Query Language) is a standardized programming language thats used to manage relational databases and perform various operations on the data in them. SQL became the de facto standard programming language for relational databases after they emerged in the late 1970s and early 1980s.",
+      "prof": "Pranav Shastri"
+    },
+    {
+      "title": "Engineering drawing",
+      "prof": "Rahul Chawla",
+      "details": "An engineering drawing is a type of technical drawing that is used to convey information about an object. A common use is to specify the geometry necessary for the construction of a component and is called a detail drawing. Usually, a number of drawings are necessary to completely specify even a simple component.",
+      "id": 4
+    }
+  ]
+}
